@@ -1,0 +1,48 @@
+/* Custom styles for the Employee form */
+body {
+    background-color: #f8f9fa; /* Light grey background */
+    font-family: Arial, sans-serif; /* Font family */
+}
+
+h1 {
+    color: #343a40; /* Dark grey */
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.form-control {
+    border: 1px solid #ced4da; /* Light grey border */
+    border-radius: 0.25rem;
+}
+
+button.btn {
+    background-color: #17a2b8; /* Bootstrap Info color */
+    border: none;
+    border-radius: 0.25rem;
+    color: white;
+    font-weight: bold;
+}
+
+button.btn:hover {
+    background-color: #138496; /* Darker Info color on hover */
+}
+
+a {
+    display: block;
+    margin-top: 20px;
+    text-align: center;
+    color: #007bff; /* Bootstrap Primary color */
+}
+
+a:hover {
+    color: #0056b3; /* Darker Primary color on hover */
+    text-decoration: underline;
+}
+
+.container {
+    background-color: white;
+    padding: 40px;
+    margin-top: 50px;
+    border-radius: 0.25rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
