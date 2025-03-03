@@ -4,6 +4,14 @@ This is a Spring Boot application that demonstrates the use of Thymeleaf for bui
 
 ![employee](employee-dir)
 
+#add -employee - page 
+
+![add employee](add-employee)
+
+#DataBase 
+
+![database](database)
+
 ## Technologies Used
 
 - Java
