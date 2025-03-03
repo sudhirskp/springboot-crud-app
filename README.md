@@ -2,6 +2,8 @@
 
 This is a Spring Boot application that demonstrates the use of Thymeleaf for building web applications. The application manages employee records, allowing users to add, update, delete, and list employees.
 
+.screenshot[employee-dir]
+
 ## Technologies Used
 
 - Java
